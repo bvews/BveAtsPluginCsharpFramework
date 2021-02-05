@@ -2,15 +2,11 @@
 The framework of AtsPlug-in implemented by C# for Bve Trainsim and other compatible stuff.
 
 ## Requirements
-* Microsoft Visual Studio 2017 or newer.
+* Microsoft Visual Studio 2019 or newer.
 * [DllExport](https://www.nuget.org/packages/DllExport/) 1.6.2 or newer.
-
-## Dependencies
-* [SlimDX](https://slimdx.org/)
 
 ## How to build
 1. Install [DllExport](https://www.nuget.org/packages/DllExport/) according to the instrcutions.
-1. Create a reference to SlimDX located in the Bve Trainsim directory.
 1. Build the project.
 
 ## Coding Guidelines
